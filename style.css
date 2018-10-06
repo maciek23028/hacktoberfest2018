@@ -1,0 +1,109 @@
+
+#navmenu{
+height:20px;
+  font-size: 40px;
+  background-color: black;
+border:3px solid #0000;
+margin-top:15px;
+
+}
+ul#navmenu{
+ list-style-type:none;
+}
+ul#navmenu li{
+ text-align:center;
+float:left;
+margin-left:12%;
+}
+
+body {
+  background-color: black;
+  list-style-type:none;
+  font-family: Lobster;
+  color: white;
+}
+h1 {
+  font-size: 80px;
+  padding: 40px;
+  margin-left:37%;
+  color: black;
+}
+h2 {
+  font-size: 30px;
+  margin-left:37%;
+  color: pink;
+  margin-top: -3%;
+}
+.btn-default {
+  background-color: white;
+  border-color: white;
+  font-size: 1.4em;
+  padding:15px 50px;
+  margin-left:16%;
+  border-radius:3%;
+  }
+
+.pageOne {
+  background: url("https://images.unsplash.com/photo-1497974735691-f31a6141ac7e?ixlib=rb-0.3.5&q=85&fm=jpg&crop=entropy&cs=srgb&dl=alan-labisch-290519.jpg&s=0e384653306bd4fe39c00240835ecb6a");
+  background-size: cover;
+  height: 800px;
+}
+
+.pageTwo {
+  background: url("https://scontent-lhr3-1.xx.fbcdn.net/v/t31.0-8/20786037_119975798653497_3606684963757547170_o.jpg?oh=38ac36e7893b50870896406e25f16003&oe=5A34CFB0");
+  background: cover;
+  height: 835px;
+}
+.btn2default {
+  background-color: grey;
+  border-color: grey;
+  font-size: 1.1em;
+  padding:10px 30px;
+  border-radius:3%;
+  margin:2%;
+  margin-left:3%; 
+  margin-right:3%;
+  float:left;
+  
+}
+
+p{
+  padding:15px;
+  font-size:25px;
+}
+p2{
+  padding:20px;
+  font-size:25px;
+}
+.me{
+  height:500px;
+  width:1337px;
+  margin-top:20%;
+margin-left:1px;
+}
+.me2{
+  height:500px;
+  margin-top:1px;
+  width:666px;
+  margin-left:1px;
+}
+.me3{
+  margin-top:-500px;
+  margin-left:50%;
+  height:500px;
+  width:669px;
+  margin-bottom:1px;
+}
+.pageThree{
+  background:url("https://scontent-lhr3-1.xx.fbcdn.net/v/t31.0-8/20786037_119975798653497_3606684963757547170_o.jpg?oh=38ac36e7893b50870896406e25f16003&oe=5A34CFB0");
+    background: cover;
+  padding:5%;
+}
+
+.pageFour{
+  height:25px;
+}
+
+#footer{
+	font-size:20px;
+}
